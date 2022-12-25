@@ -1,6 +1,6 @@
 # React Movie Project
 
-https://bogdanmarynenko.github.io/React-Movie/
+[Demo] https://bogdanmarynenko.github.io/React-Movie/
 
 ### dependencies
    + @testing-library/jest-dom: "^5.16.5",
