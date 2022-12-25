@@ -18,6 +18,12 @@ https://bogdanmarynenko.github.io/React-Movie/
    
    ____
    
+   ### Iimplemented
+   + GoodsList - all card with product.
+   + BasketList - shopping list.
+   + Cart
+   + Alert - whath product add in Cart.
+   + Preloader.
    
    
   
