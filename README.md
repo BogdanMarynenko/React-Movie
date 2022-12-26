@@ -16,14 +16,7 @@
    + https://placeholder.com/ placeholder
    + https://materializecss.com/ ready css styles
    
-   ____
-   
-   ### Iimplemented
-   + GoodsList - all card with product.
-   + BasketList - shopping list.
-   + Cart
-   + Alert - whath product add in Cart.
-   + Preloader.
+
    
    
   
